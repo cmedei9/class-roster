@@ -3,7 +3,7 @@ This is a class roster built using C++. The program reads a list of five student
 
 # Overview
 
-This C++ program contains two classes: a student class, and a student roster,. An array of pointers is used to hold the the student data. The program reads a list of five students and there data and calls function(s) to manipulate the data. 
+This C++ program contains two classes: a student class, and a student roster. An array of pointers is used to hold the the student data. The program reads a list of five students and there data and calls function(s) to manipulate the data. 
 
 The program does the following:
 
